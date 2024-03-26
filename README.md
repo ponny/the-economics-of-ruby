@@ -3,10 +3,10 @@ Document outlining the parts of the Ruby ecosystem and their economics.
 
 Created as part of my talk at the Melbourne Ruby group (https://github.com/rubyaustralia/melbourne-ruby/issues/227, https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781313/).
 
-1. [Disclaimer](#disclaimer)
+1. [Disclaimer/corrections](#disclaimer)
 2. [organisations](#organisations)
-2.1. [Ruby Central](#ruby-central)
-2.2. [Ruby Association](#ruby-assocication)
+    1. [Ruby Central](#ruby-central)
+    2. [Ruby Association](#ruby-assocication)
 
 ## 1. Disclaimer/corrections <a name="disclaimer"></a>
 
@@ -14,9 +14,9 @@ This document is likely wrong, certainly incomplete, and will inevitably be out 
 
 ## 2 Organisations<a name="organisations"></a>
 
-### 2.1 Ruby Central<a name="ruby-central"></a>
+### 2.i Ruby Central<a name="ruby-central"></a>
 
-### 2.2 Ruby Association<a name="ruby-assocication"></a>
+### 2.ii Ruby Association<a name="ruby-assocication"></a>
 
 ### Rails Foundation
 
