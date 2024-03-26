@@ -5,18 +5,18 @@ Created as part of my talk at the Melbourne Ruby group (https://github.com/rubya
 
 1. [Disclaimer](#disclaimer)
 2. [organisations](#organisations)
-  1. [Ruby Central](#ruby-central)
-  2. [Ruby Association](#ruby-assocication)
+2.1. [Ruby Central](#ruby-central)
+2.2. [Ruby Association](#ruby-assocication)
 
 ## 1. Disclaimer/corrections <a name="disclaimer"></a>
 
 This document is likely wrong, certainly incomplete, and will inevitably be out of date.  As per [Cunningham's law](https://meta.wikimedia.org/wiki/Cunningham%27s_Law), I hope to be corrected.  Create an issue/pull request and I'll do what I can.
 
-## 2. Organisations<a name="organisations"></a>
+## 2 Organisations<a name="organisations"></a>
 
 ### 2.1 Ruby Central<a name="ruby-central"></a>
 
-### Ruby Association<a name="ruby-assocication"></a>
+### 2.2 Ruby Association<a name="ruby-assocication"></a>
 
 ### Rails Foundation
 
