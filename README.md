@@ -1,7 +1,8 @@
 # The economics of Ruby
 Document outlining the parts of the Ruby ecosystem and their economics.
 
-Created as part of my talk at the Melbourne Ruby group (https://github.com/rubyaustralia/melbourne-ruby/issues/227, https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781313/).
+Created as part of my talk at the Melbourne Ruby group 
+(https://github.com/rubyaustralia/melbourne-ruby/issues/227, https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781313/).
 
 1. [Disclaimer/corrections](#disclaimer)
 2. [organisations](#organisations)
